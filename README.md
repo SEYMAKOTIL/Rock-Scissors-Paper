@@ -14,34 +14,38 @@ Bu proje, klasik Taş-Kağıt-Makas oyununu tarayıcı üzerinden oynayabileceğ
 
 ### 1. Projeyi Klonlayın
 
-git clone https://github.com/SEYMAKOTIL/Rock-Scissors-Paper
+- git clone https://github.com/SEYMAKOTIL/Rock-Scissors-Paper
 
 ### 2. Visual Studio Code ile Açın
-VS Code’u açın.
 
-tas-kagit-makas klasörünü seçin.
+- VS Code’u açın.
+
+- tas-kagit-makas klasörünü seçin.
 
 ### 3. Live Server ile Başlatın
-Eğer Live Server eklentisi yüklü değilse:
 
-VS Code sol menüsünden Extensions (Uzantılar) sekmesine gidin.
+-Eğer Live Server eklentisi yüklü değilse:
 
-“Live Server” aratın ve Ritwick Dey tarafından geliştirilen uzantıyı yükleyin.
+- VS Code sol menüsünden Extensions (Uzantılar) sekmesine gidin.
 
-Eklenti yüklendikten sonra:
+- “Live Server” aratın ve Ritwick Dey tarafından geliştirilen uzantıyı yükleyin.
 
-index.html dosyasını açın.
+#### Eklenti yüklendikten sonra:
 
-Sağ alt köşede “Go Live” butonuna tıklayın.
+- index.html dosyasını açın.
 
-Tarayıcıda otomatik olarak oyun açılacaktır.
+- Sağ alt köşede “Go Live” butonuna tıklayın.
+
+- Tarayıcıda otomatik olarak oyun açılacaktır.
 
 #### Alternatif olarak:
 
-Sağ tıklayıp “Open with Live Server” seçeneğini kullanabilirsiniz.
+- Sağ tıklayıp “Open with Live Server” seçeneğini kullanabilirsiniz.
 
 #### 📬 Katkıda Bulunmak
-Pull request’ler ve öneriler her zaman açıktır. Fork’layıp geliştirebilir, katkıda bulunabilirsiniz.
 
-#### 🧠 Not
-Bu proje eğitim amaçlıdır ve temel JavaScript mantığını pekiştirmek için geliştirilmiştir.
+- Pull request’ler ve öneriler her zaman açıktır. Fork’layıp geliştirebilir, katkıda bulunabilirsiniz.
+
+#### 🧠 Not:
+
+- Bu proje eğitim amaçlıdır ve temel JavaScript mantığını pekiştirmek için geliştirilmiştir.
