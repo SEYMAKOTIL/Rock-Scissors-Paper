@@ -39,3 +39,9 @@ Tarayıcıda otomatik olarak oyun açılacaktır.
 #### Alternatif olarak:
 
 Sağ tıklayıp “Open with Live Server” seçeneğini kullanabilirsiniz.
+
+#### 📬 Katkıda Bulunmak
+Pull request’ler ve öneriler her zaman açıktır. Fork’layıp geliştirebilir, katkıda bulunabilirsiniz.
+
+#### 🧠 Not
+Bu proje eğitim amaçlıdır ve temel JavaScript mantığını pekiştirmek için geliştirilmiştir.
