@@ -24,7 +24,7 @@ Bu proje, klasik Taş-Kağıt-Makas oyununu tarayıcı üzerinden oynayabileceğ
 
 ### 3. Live Server ile Başlatın
 
--Eğer Live Server eklentisi yüklü değilse:
+- Eğer Live Server eklentisi yüklü değilse:
 
 - VS Code sol menüsünden Extensions (Uzantılar) sekmesine gidin.
 
