@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Taş-Kağıt-Makas Oyunu</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="start-screen">
+            <h2>Hoş Geldiniz!</h2>
+            <input type="text" id="player-name" placeholder="Adınızı girin" maxlength="20">
+            <label for="difficulty">Zorluk Seviyesi:</label>
+            <select id="difficulty">
+                <option value="easy">Kolay</option>
+                <option value="medium">Orta</option>
+                <option value="hard">Zor</option>
+            </select>
+            <button id="start-game">Oyuna Başla</button>
+        </div>
+        
+        <div class="game-screen" style="display: none;">
+            <h1>Taş-Kağıt-Makas</h1>
+            <p>Seçiminizi yapın:</p>
+            <div class="choices">
+                <button id="rock">Taş</button>
+                <button id="paper">Kağıt</button>
+                <button id="scissors">Makas</button>
+            </div>
+            <div class="result">
+                <p id="player-choice">Senin seçimin: </p>
+                <p id="computer-choice">Bilgisayarın seçimi: </p>
+                <p id="game-result">Sonuç: </p>
+            </div>
+            <div class="score">
+                <p>Sen: <span id="player-score">0</span> | Bilgisayar: <span id="computer-score">0</span></p>
+                <p>Tur: <span id="current-round">1</span>/5</p>
+                <p>En İyi Skor: <span id="best-score">0</span></p>
+            </div>
+            <button id="reset-game">Yeniden Başla</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
